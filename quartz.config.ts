@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://github.com/ashwinprakashsolanki-coder/Mortal-s-Thots",
+    baseUrl: "ashwinprakashsolanki-coder.github.io/Mortal-s-Thots",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
